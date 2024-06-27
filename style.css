@@ -1,0 +1,32 @@
+body{
+background-image: url(https://desu.shikimori.one/system/user_images/original/74033/746854.jpg);
+font-family:cursive;
+
+
+}
+.berserk{
+height: 280px;
+width:  225px;
+}
+p{
+font-size: large;
+}
+.not{
+height: 280px;
+width:  225px;
+}
+.blue{
+height: 300px;
+width:  225px;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+.q{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+}
